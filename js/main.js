@@ -8,7 +8,9 @@ var prova = new Vue({
     el: '#benvenutoVue',
     data: {
         titolo: 'Benvenuto nel tuo primo utilizzo del framework "Vue.JS".',
-        miaClasse: "stile"
-    }
+        miaClasse: "stile",
+        immagine: "https://www.meme-arsenal.com/memes/2bbe8b493be292069ed36ebbc30c8926.jpg",
+        miaClasse2: "customize"
+    },
 
 })

@@ -10,3 +10,13 @@
     text-align: center;
     margin: 10px;
 }
+
+#benvenutoVue button {
+    margin: 0 10px;
+}
+
+#benvenutoVue img.customize {
+    width: 500px;
+    margin: 0 10px;
+   
+}
