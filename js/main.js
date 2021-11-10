@@ -7,7 +7,8 @@
 var prova = new Vue({
     el: '#benvenutoVue',
     data: {
-        testoH1: 'Benvenuto nel tuo primo utilizzo del framework "Vue.JS".'
+        titolo: 'Benvenuto nel tuo primo utilizzo del framework "Vue.JS".',
+        miaClasse: "stile"
     }
 
 })
